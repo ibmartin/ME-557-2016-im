@@ -1,0 +1,10 @@
+﻿Build started 9/16/2016 1:57:00 AM.
+     1>Project "D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\ALL_BUILD.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/Git/HCI-557-CG/assignments/02_3D_Modeling/CMakeLists.txt
+         CMake does not need to re-run because D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\CMakeFiles\generate.stamp is up-to-date.
+     1>Done Building Project "D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\ALL_BUILD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93

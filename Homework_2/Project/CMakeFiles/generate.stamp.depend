@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+D:/Git/HCI-557-CG/assignments/02_3D_Modeling/CMakeLists.txt
+D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/CMakeFiles/3.6.1/CMakeSystem.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInitialize.cmake
+D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/CMakeFiles/3.6.1/CMakeCCompiler.cmake
+D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/CMakeFiles/3.6.1/CMakeCXXCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/CMakeFiles/3.6.1/CMakeRCCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+D:/Git/HCI-557-CG/SDK/cmake/FindGlew.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/Git/HCI-557-CG/SDK/cmake/FindGlm.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/Git/HCI-557-CG/SDK/cmake/FindGlfw3.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindOpenGL.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake

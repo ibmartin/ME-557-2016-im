@@ -1,0 +1,16 @@
+﻿Build started 9/16/2016 12:51:53 AM.
+     1>Project "D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\HW2_Program.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Git\HCI-557-CG\SDK\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"HW2_Program.dir\Debug\\" /Fd"HW2_Program.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "D:\Git\HCI-557-CG\assignments\02_3D_Modeling\hw2_main.cpp"
+         hw2_main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\Debug\HW2_Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "D:\Git\HCI-557-CG\SDK\lib\glew32.lib" "D:\Git\HCI-557-CG\SDK\lib\Release\glfw.lib" glu32.lib opengl32.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/Debug/HW2_Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/School/Fall 2016/M E 557/Build/assignments/02_3D_Modeling/Debug/HW2_Program.lib" /MACHINE:X64  /machine:x64 HW2_Program.dir\Debug\hw2_main.obj
+         HW2_Program.dir\Debug\controls.obj
+         HW2_Program.dir\Debug\HCI557Common.obj
+         HW2_Program.dir\Debug\CoordSystem.obj
+         HW2_Program.vcxproj -> D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\Debug\HW2_Program.exe
+     1>Done Building Project "D:\School\Fall 2016\M E 557\Build\assignments\02_3D_Modeling\HW2_Program.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61
